@@ -1,0 +1,116 @@
+﻿
+
+body{  margin:0;  font-family:Tahoma;  background:#3c8ea6 url("") no-repeat top;  }
+
+a{TEXT-DECORATION: none;}
+
+::selection {background:#3c8ea6;color:#fff;}
+::-moz-selection {background:#3c8ea6;color:#fff;}
+
+#pichakweb{  width:820;  }
+#main-back{  width:820;  float:right;  direction:rtl;  background:#f9f9f9;  margin:0 0 0 0;  border:1px #c5c6c9 solid;  border-radius: 0px;}
+
+
+#header{  background:#ffffff url("https://i.ibb.co/c3xRWZf/New-Project.jpg") no-repeat center;  width:800;  height:500;  color:#838383;  font-size:9pt;  text-align:right;  border:1px #96a5ac solid;  border-radius: 5px;  margin:5 0 5 0;}
+
+#menu{  width:200;  position:absolute;  margin:344 8 0 0;}
+
+a.menu {  display:table;  width:150;  text-align:right;  font-size:9pt; color:#000;  margin:1px auto 0 auto;  padding:0px 4px 2px 4px;  border-radius: 4px;
+transition: all .5s ease; 
+-o-transition: all .5s ease;
+-moz-transition: all .5s ease;
+-webkit-transition: all .5s ease;
+}
+		
+a:hover.menu {  color:#12316e;  border-radius: 4px;
+transition: all .5s ease; 
+-o-transition: all .5s ease;
+-moz-transition: all .5s ease;
+-webkit-transition: all .5s ease;
+}
+
+#TopBlogTitle{  width:820;  position:absolute;  text-align:right;  color:#000;  margin:20 30 0 0;  }
+
+#TopBlogTitle a{ color:#000;  }
+#TopBlogTitle a:hover{  color:#12316e;  }
+
+.BlogTitle{  padding:0 0 0 0;  font-size:14pt;  font-weight:bold;  }
+.BlogTitle h1{  font-family:Arial;  font-size: 14pt;  font-weight:bold;  color:#f5f7f9;  margin-bottom:0;  margin:0;  }
+.Description{  padding:10 0 0 0;  font-size:9pt;  }
+	
+	
+#pichak-Back1{  margin:0;  }	
+#pichak-Back2{  margin:0;  }
+#pichak-Back3{  margin:0;  }
+
+
+.post{  float:left;  direction:rtl;  text-align:right;  width:565;  overflow:hidden; margin:0 6 0 4;  }
+
+.PostBox1{  width:554;  margin-bottom:20;  margin:0 4 20 0;  border: 1px solid #d5d5d5;  border-radius: 5px ;  }
+.PostBox2{  background: #fbfbfb;  border: 1px solid #ffffff;  border-radius: 5px;  padding:0 0 0 0;  }
+	
+.TopPost{  font-size:9pt;  font-weight:bold;  padding:23 50 0 0;  }
+.TopPost h2{  font-size:9pt;  margin:0;  }
+.TopPost a{  color:#000;  }
+
+.TopPostBack{  width:552;  background:url(http://pichak.net/themes/69/10/post.png) no-repeat right;  border: 0px solid #cf9025;  height:80;  margin:0 0 0 0;  border-radius:0px;  }
+	
+
+	
+.CenterPost{  width:520;  font-size:9pt;  color:#333333;  overflow:hidden;  padding:2 10 10 10;  line-height:19px;  text-align:justify;  }
+.CenterPost a{ color:#12316e;  }
+.CenterPost a:hover{  color:#12316e;  }
+.CenterPost img {max-width:512px;height:auto;margin:20px 0px 20px 0px;border:1px solid #CFCFCF; padding:3px; -webkit-border-radius:2px; -moz-border-radius:2px; border-radius:2px; }
+
+	
+.LowPost{  font-size:8pt;  color:#333333;  direction:rtl;  overflow:hidden;  padding:4 10 0 5;  }
+	
+.LowPostBack{  width:544;  background: #eeeeee;  border: 1px solid #d1d1d1;  height:20;  margin:5 3 0 0;  border-radius: 3px;  }
+	
+.Low{  margin:5 0 0 0;  }
+	
+	
+
+
+
+#Sidebar{  width:230;  float:left;  direction:rtl;  text-align:right;  overflow:hidden;  margin:0 0 0 9;}
+	
+.TopSid{  color:#000;  font-size:9pt;  padding:10 30;  text-align:right;  }
+	
+.TopSidBack{  background:url(http://pichak.net/themes/69/10/sid.png) no-repeat right; border-radius: 0px;  width:222;  height:60;  margin:0 0 0 0 ;  }
+	
+.CenterSid{  font-size:9pt;  color:#666666;  width:213;  overflow:hidden;  padding:10 0;  }
+.CenterSid a{ color:#606060;  }
+.CenterSid a:hover{  color:#12316e;  }
+	
+	
+.TopSidBox1{  width:224;  border: 1px solid #d5d5d5;  border-radius: 5px;  margin-bottom:10;  margin:0 4 7 5;  }
+	
+.TopSidBox2{  color: #737373; background: #fafafa;  border: 1px solid #ffffff;  border-radius: 5px;  padding:0 0 0 0;
+-moz-box-shadow: inset 0 0 25px #e7e7e7;
+-webkit-box-shadow: inset 0 0 25px #e7e7e7; 
+box-shadow: inset 0 0 25px #e7e7e7;
+}
+	
+	
+.li-Sid-menu{  padding:1 15 5 5;  background:url('http://pichak.net/themes/69/10/li.png') 180px 7px no-repeat;  }
+.li-Sid{  padding:1 15 5 5;  background:url('http://pichak.net/themes/69/10/li.png') 204px 5px no-repeat;  }
+.About{  padding:0 10 0 10;  color:#555555; font-size:8pt;  }
+.Design{  width:85;  height:24;  padding:20 0 0 0;  text-align:center;  background:url("http://pichak.net/themes/logo/pichak-38.png") no-repeat center;  }
+
+.Old {font-size:9pt; margin-bottom:10px; text-align:center;color:#868686}
+a.Old {display:table;  width:90;  height:10;   background:#e9e9e9;padding:0 2 2 2;text-align:center;color:#272727;font-size:9pt;border:1px #d4d4d4 solid;border-radius: 5px;}
+a:hover.Old {background:#4e4e4e;color:#ffffff;}	
+	
+	
+.Footer{  width:800;  height:30;  float:right;  direction:rtl;  background:#fafafa; margin:10 9 10 9;  border: 1px solid #c8c8c8;  border-radius: 4px;
+-moz-box-shadow: inset 0 0 25px #e7e7e7;
+-webkit-box-shadow: inset 0 0 25px #e7e7e7; 
+box-shadow: inset 0 0 25px #e7e7e7;
+}
+	
+.Footer a{  color:#151516;  }
+.Footer a:hover{  color:#12316e;  }
+	
+.FooterTitle{  font-size:8pt;  text-align:center;  padding:7 20 7 0;  color:#151516  }
+	
