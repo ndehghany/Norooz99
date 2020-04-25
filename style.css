@@ -1,4 +1,4 @@
-﻿
+
 
 body{  margin:0;  font-family:Tahoma;  background:#3c8ea6 url("") no-repeat top;  }
 
@@ -53,7 +53,7 @@ transition: all .5s ease;
 .TopPost h2{  font-size:9pt;  margin:0;  }
 .TopPost a{  color:#000;  }
 
-.TopPostBack{  width:552;  background:url(http://pichak.net/themes/69/10/post.png) no-repeat right;  border: 0px solid #cf9025;  height:80;  margin:0 0 0 0;  border-radius:0px;  }
+.TopPostBack{  width:552;  background:url("http://pichak.net/themes/69/10/post.png") no-repeat right;  border: 0px solid #cf9025;  height:80;  margin:0 0 0 0;  border-radius:0px;  }
 	
 
 	
@@ -77,7 +77,7 @@ transition: all .5s ease;
 	
 .TopSid{  color:#000;  font-size:9pt;  padding:10 30;  text-align:right;  }
 	
-.TopSidBack{  background:url(http://pichak.net/themes/69/10/sid.png) no-repeat right; border-radius: 0px;  width:222;  height:60;  margin:0 0 0 0 ;  }
+.TopSidBack{  background:url("http://pichak.net/themes/69/10/sid.png") no-repeat right; border-radius: 0px;  width:222;  height:60;  margin:0 0 0 0 ;  }
 	
 .CenterSid{  font-size:9pt;  color:#666666;  width:213;  overflow:hidden;  padding:10 0;  }
 .CenterSid a{ color:#606060;  }
@@ -93,8 +93,8 @@ box-shadow: inset 0 0 25px #e7e7e7;
 }
 	
 	
-.li-Sid-menu{  padding:1 15 5 5;  background:url('http://pichak.net/themes/69/10/li.png') 180px 7px no-repeat;  }
-.li-Sid{  padding:1 15 5 5;  background:url('http://pichak.net/themes/69/10/li.png') 204px 5px no-repeat;  }
+.li-Sid-menu{  padding:1 15 5 5;  background:url("http://pichak.net/themes/69/10/li.png") 180px 7px no-repeat;  }
+.li-Sid{  padding:1 15 5 5;  background:url("http://pichak.net/themes/69/10/li.png") 204px 5px no-repeat;  }
 .About{  padding:0 10 0 10;  color:#555555; font-size:8pt;  }
 .Design{  width:85;  height:24;  padding:20 0 0 0;  text-align:center;  background:url("http://pichak.net/themes/logo/pichak-38.png") no-repeat center;  }
 
